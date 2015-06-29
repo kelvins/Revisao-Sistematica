@@ -1,2 +1,3 @@
 # Revisao-Sistematica
-Repositório para armazenar os documentos da revisão sistemática.
+
+Repositório criado para armazenar e compartilhar os documentos gerados durante a revisão sistemática.
